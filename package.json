@@ -16,7 +16,6 @@
     "redux",
     "redux-storage",
     "redux-storage-engine",
-    "localStorage",
     "react-native"
   ],
   "author": "Michael Contento <michaelcontento@gmail.com>",
