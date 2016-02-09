@@ -1,26 +1,26 @@
-# [redux-storage-engine-reactNativeAsyncStorage][]
+# [redux-storage-engine-reactnativeasyncstorage][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage.svg)](https://travis-ci.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage)
-[![dependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage)
-[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactNativeAsyncStorage#info=devDependencies)
+[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg)](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
+[![dependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
+[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage#info=devDependencies)
 
-[![license](https://img.shields.io/npm/l/redux-storage-engine-reactNativeAsyncStorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactNativeAsyncStorage)
-[![npm version](https://img.shields.io/npm/v/redux-storage-engine-reactNativeAsyncStorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactNativeAsyncStorage)
-[![npm downloads](https://img.shields.io/npm/dm/redux-storage-engine-reactNativeAsyncStorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactNativeAsyncStorage)
-[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactNativeAsyncStorage/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactNativeAsyncStorage)
+[![license](https://img.shields.io/npm/l/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
+[![npm version](https://img.shields.io/npm/v/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
+[![npm downloads](https://img.shields.io/npm/dm/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
+[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
 
 `AsyncStorage` based engine for [redux-storage][].
 
 ## Installation
 
-    npm install --save redux-storage-engine-reactNativeAsyncStorage
+    npm install --save redux-storage-engine-reactnativeasyncstorage
 
 ## Usage
 
 This will use `AsyncStorage` out of [react-native][].
 
 ```js
-import createEngine from 'redux-storage-engine-reactNativeAsyncStorage';
+import createEngine from 'redux-storage-engine-reactnativeasyncstorage';
 const engine = createEngine('my-save-key');
 ```
 
@@ -48,5 +48,5 @@ const engine = createEngine('my-save-key');
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   [redux-storage]: https://github.com/michaelcontento/redux-storage
-  [redux-storage-engine-reactNativeAsyncStorage]: https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage
+  [redux-storage-engine-reactnativeasyncstorage]: https://github.com/michaelcontento/redux-storage-engine-reactnativeasyncstorage
   [react-native]: https://facebook.github.io/react-native/

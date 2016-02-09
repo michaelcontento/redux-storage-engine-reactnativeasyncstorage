@@ -1,5 +1,5 @@
 {
-  "name": "redux-storage-engine-reactNativeAsyncStorage",
+  "name": "redux-storage-engine-reactnativeasyncstorage",
   "version": "1.0.0",
   "description": "react-native/AsyncStorage based engine for redux-storage",
   "main": "build/index.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage.git"
+    "url": "https://github.com/michaelcontento/redux-storage-engine-reactnativeasyncstorage.git"
   },
-  "homepage": "https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage",
+  "homepage": "https://github.com/michaelcontento/redux-storage-engine-reactnativeasyncstorage",
   "keywords": [
     "redux",
     "redux-storage",
