@@ -1,0 +1,43 @@
+{
+  "name": "redux-storage-engine-reactNativeAsyncStorage",
+  "version": "1.0.0",
+  "description": "react-native/AsyncStorage based engine for redux-storage",
+  "main": "build/index.js",
+  "jsnext:main": "src/index.js",
+  "scripts": {
+    "test": "make lint test build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage.git"
+  },
+  "homepage": "https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage",
+  "keywords": [
+    "redux",
+    "redux-storage",
+    "redux-storage-engine",
+    "localStorage",
+    "react-native"
+  ],
+  "author": "Michael Contento <michaelcontento@gmail.com>",
+  "files": [
+    "build/",
+    "src",
+    "!**/__tests__/**"
+  ],
+  "eslintConfig": {
+    "extends": "michaelcontento"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-core": "^6.4.0",
+    "babel-polyfill": "^6.3.14",
+    "babel-preset-michaelcontento": "^1.3.0",
+    "eslint": "^1.10.3",
+    "eslint-config-michaelcontento": "^1.1.1",
+    "eslint-plugin-mocha-only": "0.0.3",
+    "mocca": "^0.3.0",
+    "release-it": "^2.3.1"
+  }
+}
