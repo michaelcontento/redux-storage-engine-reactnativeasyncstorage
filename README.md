@@ -1,6 +1,6 @@
 # [redux-storage-engine-reactnativeasyncstorage][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg)](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
+[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
 [![dependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
 [![devDependencies](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-reactnativeasyncstorage#info=devDependencies)
 
