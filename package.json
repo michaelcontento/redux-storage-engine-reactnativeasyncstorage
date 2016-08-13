@@ -1,6 +1,6 @@
 {
   "name": "redux-storage-engine-reactnativeasyncstorage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react-native/AsyncStorage based engine for redux-storage",
   "main": "build/index.js",
   "scripts": {
