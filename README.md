@@ -11,6 +11,13 @@
 
 `AsyncStorage` based engine for [redux-storage][].
 
+# Deprecated - No longer maintained
+
+My focus has left the node / react ecosystem and this module is no
+longer maintained. 
+
+Thank you for your patience and using this module in the first place!
+
 ## Installation
 
     npm install --save redux-storage-engine-reactnativeasyncstorage
