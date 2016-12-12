@@ -11,14 +11,10 @@
 
 `AsyncStorage` based engine for [redux-storage][].
 
-# Deprecated - No longer maintained
+# Moved to the react-stack organisation
 
-My focus has left the node / react ecosystem and this module is no
-longer maintained. Maybe [redux-persist](https://github.com/rt2zz/redux-persist) 
-is a good replacement for you? Or if you want to step in and become
-the new owner - just ping me :smile:
-
-Thank you for your patience and using this module in the first place!
+My focus has left the node / react ecosystem and this module has got a new home
+over at [react-stack](https://github.com/react-stack/redux-storage-engine-reactnativeasyncstorage)!
 
 ## Installation
 
