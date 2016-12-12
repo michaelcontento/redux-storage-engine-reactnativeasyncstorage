@@ -7,7 +7,6 @@
 [![license](https://img.shields.io/npm/l/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
 [![npm version](https://img.shields.io/npm/v/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
 [![npm downloads](https://img.shields.io/npm/dm/redux-storage-engine-reactnativeasyncstorage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-reactnativeasyncstorage)
-[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-engine-reactnativeasyncstorage)
 
 `AsyncStorage` based engine for [redux-storage][].
 
